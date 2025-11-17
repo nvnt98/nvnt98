@@ -1,4 +1,4 @@
-# 👨‍💻 Hi there, I'm [Navneet]!
+# 👨‍💻 Hi there, I'm Navneet!
 
 ### 💡 About Me
 I'm a **Computer Science student** passionate about building efficient and innovative software solutions.  
