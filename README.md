@@ -49,7 +49,7 @@
 
 ## 🚀 Featured Projects
 
-### 🛒 [Shop-Glob - Full-Stack E-commerce Platform](https://github.com/nvnt98/shop-glob)
+### 🛒 [Shop-Glob - Full-Stack E-commerce Platform](https://shop-glob.vercel.app/)
 > A complete e-commerce solution built with the MERN Stack
 
 **Tech Stack:** MongoDB | Express.js | React.js | Node.js | JWT
@@ -61,7 +61,7 @@
 
 ---
 
-### 🎨 [AI Image Generator](https://github.com/nvnt98/ai-image-generator)
+### 🎨 [AI Image Generator](https://ai-image-generator-lilac-alpha.vercel.app/)
 > Transform your imagination into stunning AI-generated images
 
 **Tech Stack:** JavaScript | HTML5 | CSS3 | Hugging Face API
