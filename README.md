@@ -1,5 +1,9 @@
 # Hi there, I'm Navneet Kumar Gond 👋
 
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;MERN+Stack+Developer;Python+Developer;Problem+Solver;Always+Learning+New+Things" alt="Typing SVG" /></a>
+</p>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nvntt98)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/CSEB_22B0101092/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nvntt98@gmail.com)
